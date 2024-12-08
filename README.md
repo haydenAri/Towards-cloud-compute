@@ -1,2 +1,3 @@
 # Towards-cloud-compute
-First Repo
+Journey towards Cloud is started <br>
+Happy Journey
